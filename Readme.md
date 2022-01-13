@@ -1,1 +1,1 @@
-Don't judge, Just Beginner Projects
+Python Project for Beginners
