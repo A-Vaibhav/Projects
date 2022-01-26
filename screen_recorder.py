@@ -1,6 +1,6 @@
-from datetime import datetime
+from datetime import datetime  # file naming
 from PIL import ImageGrab  # PIL shortform of Pillow
-import numpy as np
+import numpy as np         # to handle the image array
 import cv2                 # cv2 shotform of opencv
 from tkinter import *      # to get screen width and height
 import datetime
